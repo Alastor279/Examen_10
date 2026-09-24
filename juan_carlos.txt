@@ -1,0 +1,3 @@
+nombre: juan Carlos Quintero
+Edad: 25
+genereo: masculino
